@@ -5,7 +5,7 @@ This project analyzes Zomato restaurant data to uncover insights on customer pre
 
 ---
 
-## ools & Technologies
+## Tools & Technologies
 - Power BI
 - Excel
 - DAX
